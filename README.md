@@ -1,6 +1,7 @@
-## roll:212223240104
-## name:naresh.r
+
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## NAME:NARESH.R
+## REG NO : NARESH.R
 ## AIM
 ## ALGORITHM:
 1. Start the program.
@@ -41,7 +42,8 @@ while True:
     i+=s
 ```
 ## OUPUT
-![image](https://github.com/MuthulakshmiD/2b_SLIDING_WINDOW_PROTOCOL/assets/144870775/7691f8e5-9b34-495f-b9ab-068b4796c3c0)
+![image](https://github.com/feryjfgkuyfgewjfgew/2b_SLIDING_WINDOW_PROTOCOL/assets/150319377/df176fc3-645e-474f-862b-20bb308e2260)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
