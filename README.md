@@ -42,8 +42,12 @@ while True:
     i+=s
 ```
 ## OUPUT
-![image](https://github.com/feryjfgkuyfgewjfgew/2b_SLIDING_WINDOW_PROTOCOL/assets/150319377/df176fc3-645e-474f-862b-20bb308e2260)
+## clint
+![image](https://github.com/feryjfgkuyfgewjfgew/2b_SLIDING_WINDOW_PROTOCOL/assets/150319377/33320514-2efb-436e-87bd-6cad544564c4)
 
+
+## server
+![Screenshot 2024-05-17 133916](https://github.com/feryjfgkuyfgewjfgew/2b_SLIDING_WINDOW_PROTOCOL/assets/150319377/a48a1a22-977c-4190-9e2d-d098d8f580d2)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
